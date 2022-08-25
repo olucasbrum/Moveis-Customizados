@@ -1,4 +1,4 @@
-# Moveis-Customizados
+# Móveis-Customizados
 
 - Primeiro projeto do programa explorer, onde o principal conceito era alinhar textos e elementos, espaçamentos e fontes.
 
